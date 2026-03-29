@@ -1,6 +1,6 @@
 Hi im potatos1233
 
-i made a .bat virus
+i made a virus
 
 tw: scary images 
 
