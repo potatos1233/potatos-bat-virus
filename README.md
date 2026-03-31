@@ -2,8 +2,6 @@ Hi im potatos1233
 
 i made a virus
 
-tw: scary images 
+tw: pc getting bricked
 
-descripton of virus: nothing crazy just plays music, shows images, shuts off pc
-
-virustotal scan: WORKING ON NEW VERSION
+virustotal scan: https://www.virustotal.com/gui/file/cf168879a49194052b8c45e2d54da1e1d9c014bf65d36c599e7eb0baf98cae5a/detection
